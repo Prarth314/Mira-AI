@@ -5,7 +5,6 @@
 Originally built collaboratively as a hackathon prototype. This standalone repository continues that work, with future development maintained by Prarth Gupta with the original teammates' permission.
 
 - Original team repository: [aashrithtutuku02-stack/startupOS](https://github.com/aashrithtutuku02-stack/startupOS)
-- Preserved hackathon fork: [Prarth314/MIRAAI-hackathon-archive](https://github.com/Prarth314/MIRAAI-hackathon-archive)
 - The original Git commit history and authorship have been preserved. The original prototype was a team effort; this repository does not claim sole authorship of that work.
 
 ---
